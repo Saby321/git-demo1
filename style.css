@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    background-size: auto;
+    text-align: center;
+}
+p{
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-display:visible;
+    line-height: 1.5;
+}
